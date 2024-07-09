@@ -66,7 +66,7 @@
 
 Simple and minimalist Web3 boilerplate to boost your Dapp development. Built using the latest tech out there: [Next.js](https://nextjs.org/), [Viem](https://viem.sh/), [Wagmi](https://wagmi.sh/), [RainbowKit](https://www.rainbowkit.com/), [ChakraUI](https://chakra-ui.com/), and [Typescript](https://www.typescriptlang.org/). Eslint, Prettier, and Husky are already configured. The perfect starting point for your next web3 project.
 
-Try it yourself: [https://github.com/UsamaZuberi/Next-Web3-Boilerplate](https://github.com/UsamaZuberi/Next-Web3-Boilerplate)
+Try it yourself: [https://next-web3-boilerplate-v1.vercel.app/](https://next-web3-boilerplate-v1.vercel.app/)
 
 ## Built With
 
@@ -102,7 +102,11 @@ Try it yourself: [https://github.com/UsamaZuberi/Next-Web3-Boilerplate](https://
 
 ```bash
 
+
+
 git  clone  https://github.com/UsamaZuberi/Next-Web3-Boilerplate.git  .
+
+
 
 ```
 
@@ -110,19 +114,35 @@ git  clone  https://github.com/UsamaZuberi/Next-Web3-Boilerplate.git  .
 
 ```bash
 
+
+
 bun  install
 
+
+
 # or
+
+
 
 pnpm  install
 
+
+
 # or
+
+
 
 yarn  install
 
+
+
 # or
 
+
+
 npm  install
+
+
 
 ```
 
@@ -140,19 +160,35 @@ First, run the development server:
 
 ```bash
 
+
+
 bun  dev
 
+
+
 # or
+
+
 
 pnpm  dev
 
+
+
 # or
+
+
 
 yarn  dev
 
+
+
 # or
 
+
+
 npm  run  dev
+
+
 
 ```
 
