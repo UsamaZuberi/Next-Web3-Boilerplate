@@ -7,15 +7,10 @@
 <h1><strong> Next Web3 Boilerplate </strong></h1>
 
 [![Stargazers](https://img.shields.io/github/stars/UsamaZuberi/Next-Web3-Boilerplate)](https://github.com/UsamaZuberi/Next-Web3-Boilerplate/stargazers)
-
 [![Forks](https://img.shields.io/github/forks/UsamaZuberi/Next-Web3-Boilerplate)](https://github.com/UsamaZuberi/Next-Web3-Boilerplate/issues)
-
 [![Issues](https://img.shields.io/github/issues/UsamaZuberi/Next-Web3-Boilerplate)](https://github.com/UsamaZuberi/Next-Web3-Boilerplate/issues)
-
 [![MIT License](https://img.shields.io/github/license/UsamaZuberi/Next-Web3-Boilerplate)](https://github.com/UsamaZuberi/Next-Web3-Boilerplate/blob/main/License)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadusamazuberi)
-
 ![Vercel](https://img.shields.io/github/deployments/UsamaZuberi/Next-Web3-Boilerplate/production?label=Vercel&logo=Vercel&logoColor=white)
 
 <br></br>
